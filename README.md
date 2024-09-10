@@ -1,2 +1,2 @@
 # Laravel
-tests diverrs
+tests divers
